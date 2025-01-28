@@ -61,6 +61,7 @@ Requirements
 Before running the game, make sure you have the following installed:
 
 Python 3.x
+
 Pygame Library (pip install pygame)
 
 Installation Steps
