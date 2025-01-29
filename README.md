@@ -39,13 +39,13 @@ The objective of the game is to control a snake on a grid and eat food items to 
 
 - **Color Scheme**:
 
- - The snake's is light yellow in colour.
- - Food items are represented by dark blue circles.
+  - The snake's is light yellow in colour.
+  - Food items are represented by dark blue circles.
 
 - **User Interaction**:
 
-- Players control the snake's movement using arrow keys.
- - The game responds in real-time to player input, updating the snake's position and checking for collisions.
+  - Players control the snake's movement using arrow keys.
+  - The game responds in real-time to player input, updating the snake's position and checking for collisions.
 
 ### Future Improvements
 
